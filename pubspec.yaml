@@ -1,0 +1,41 @@
+name: digital_clock_app
+description: "Aplikasi Jam Digital dengan Kalender dan Alarm - Flutter"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+  # Format tanggal & waktu (lokal Indonesia)
+  intl: ^0.19.0
+
+  # Widget kalender
+  table_calendar: ^3.1.2
+
+  # Notifikasi lokal untuk fitur alarm
+  flutter_local_notifications: ^17.2.3
+
+  # Penyimpanan lokal (alarm & event kalender)
+  shared_preferences: ^2.2.3
+
+  # Pemutar suara alarm
+  audioplayers: ^6.0.0
+
+  # Timezone untuk penjadwalan alarm yang presisi
+  timezone: ^0.9.4
+  flutter_timezone: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sounds/
