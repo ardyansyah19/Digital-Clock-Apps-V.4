@@ -1,4 +1,5 @@
 # ⏰ Jam Digital — Flutter App
+By Ahmad Riko Dyansyah
 
 Aplikasi **Jam Digital** dengan tampilan modern bergaya *neon gradient*,
 lengkap dengan fitur **Kalender** (menyoroti tanggal hari ini secara
