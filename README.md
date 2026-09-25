@@ -119,7 +119,7 @@ flutter run
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 
 Proyek ini bebas digunakan, dimodifikasi, dan dikembangkan lebih lanjut
 sesuai kebutuhanmu.
