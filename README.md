@@ -12,11 +12,11 @@ Android/iOS — plus bonus fitur **Stopwatch**.
 
 | Fitur | Deskripsi |
 |---|---|
-| 🕐 **Jam Digital** | Jam real-time (update tiap detik), tanggal lengkap Bahasa Indonesia, sapaan otomatis (Pagi/Siang/Sore/Malam) sesuai jam saat ini. |
-| 📅 **Kalender** | Tampilan bulan penuh, tanggal hari ini otomatis tersorot, bisa berpindah bulan/tahun, tambah & hapus agenda/catatan per tanggal (tersimpan lokal). |
-| ⏰ **Alarm** | Tambah, edit, hapus, aktif/nonaktifkan alarm. Mendukung alarm sekali jalan maupun berulang (pilih hari), label kustom, suara & getar bisa diatur, dan **tetap berbunyi walau aplikasi ditutup** (lewat notifikasi terjadwal). |
-| ⏱️ **Stopwatch** *(bonus)* | Stopwatch dengan pencatatan lap time. |
-| 🌗 **Tema Gelap/Terang** | Bisa diganti langsung dari ikon di pojok kanan atas. |
+| **Jam Digital** | Jam real-time (update tiap detik), tanggal lengkap Bahasa Indonesia, sapaan otomatis (Pagi/Siang/Sore/Malam) sesuai jam saat ini. |
+| **Kalender** | Tampilan bulan penuh, tanggal hari ini otomatis tersorot, bisa berpindah bulan/tahun, tambah & hapus agenda/catatan per tanggal (tersimpan lokal). |
+| **Alarm** | Tambah, edit, hapus, aktif/nonaktifkan alarm. Mendukung alarm sekali jalan maupun berulang (pilih hari), label kustom, suara & getar bisa diatur, dan **tetap berbunyi walau aplikasi ditutup** (lewat notifikasi terjadwal). |
+| **Stopwatch** *(bonus)* | Stopwatch dengan pencatatan lap time. |
+| **Tema Gelap/Terang** | Bisa diganti langsung dari ikon di pojok kanan atas. |
 
 ---
 
